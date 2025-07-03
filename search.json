@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LA Education",
+    "section": "",
+    "text": "The static choropleth map above visualizes the percentage of adults aged 25 and over in each census tract of Los Angeles County who have attained at least a bachelor’s degree, including master’s, professional, and doctoral degrees. The use of a plasma color gradient clearly highlights the spatial variation in educational attainment across the region. Western and coastal neighborhoods—such as those near Santa Monica, Westwood, and parts of Pasadena—are associated with the highest percentages of college-educated residents. In contrast, several tracts in South Los Angeles and parts of the eastern San Fernando Valley exhibit significantly lower rates, illustrating persistent educational inequality across geographic and socioeconomic boundaries.\n\n\n\n\n\n\n\n\n\nThe interactive Leaflet map offers a dynamic visualization of educational attainment by census tract in Los Angeles County. Users can zoom in and hover over individual tracts to see the exact percentage of residents aged 25+ with a bachelor’s degree or higher. This interactivity makes it easier to explore patterns in specific neighborhoods and compare adjacent areas in detail. The addition of hover tooltips and a live color legend enhances user engagement and allows for an intuitive understanding of the data. The map reveals stark disparities, with educational attainment levels clustering heavily in wealthier and coastal communities, reinforcing patterns seen in the static visualization while enabling deeper, on-demand exploration."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
